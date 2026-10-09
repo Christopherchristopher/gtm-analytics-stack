@@ -87,7 +87,6 @@ Go to lookerstudio.google.com, then **Create > Report > BigQuery**, and add the 
 5. **Time series**: `fct_pipeline_created`, pipeline created by month, broken down by channel
 6. **Table**: `fct_forecast` by owner, with weighted amount
 
-Screenshot the dashboard and the dbt lineage graph and add both to this README.
 
 ## Using live data instead
 Swap the seeds for a real source (for example HubSpot deals exported via the API or n8n into BigQuery), point the staging models at it, and set `as_of_date` in `dbt_project.yml` to today. The marts don't need to change.
