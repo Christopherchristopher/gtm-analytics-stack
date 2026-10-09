@@ -1,0 +1,401 @@
+deal_id,company_name,industry,segment,owner,amount_gbp,stage,created_date,expected_close_date,close_date,source_channel
+D0001,North Partners,Hedge Fund,SMB,Priya Shah,17000,Demo,2026-08-24,2026-11-03,,Cold Email
+D0002,Oak Partners,Asset Management,SMB,Grace Okafor,18500,Closed Lost,2026-07-29,2026-09-12,2026-09-12,Webinar
+D0003,Meridian Asset Management,Fintech,Mid-Market,Priya Shah,52500,Closed Lost,2026-03-26,2026-05-21,2026-05-21,Webinar
+D0004,Atlas Analytics,Wealth Management,SMB,Tom Reid,11500,Closed Lost,2026-09-04,2026-09-14,2026-09-14,Cold Email
+D0005,Summit Investments,Wealth Management,SMB,Grace Okafor,19000,Discovery,2026-09-09,2026-12-17,,Referral
+D0006,Forth Asset Management,Wealth Management,SMB,Tom Reid,17000,Prospecting,2026-09-16,2026-10-18,,Cold Email
+D0007,Clear Holdings,Fintech,Enterprise,Grace Okafor,88500,Proposal,2026-07-18,2026-11-21,,Referral
+D0008,North Partners,Insurance,Enterprise,Tom Reid,74000,Closed Lost,2025-10-25,2026-01-17,2026-01-17,Cold Email
+D0009,Silver Partners,Insurance,Enterprise,Tom Reid,139000,Closed Lost,2025-10-02,2025-10-17,2025-10-17,Cold Email
+D0010,Forth Analytics,Hedge Fund,SMB,Alex Morgan,8000,Closed Lost,2026-08-03,2026-08-24,2026-08-24,Inbound Website
+D0011,Atlas Advisors,Fintech,Mid-Market,Priya Shah,52500,Closed Lost,2025-11-13,2026-02-07,2026-02-07,Inbound Website
+D0012,Tay Asset Management,Asset Management,SMB,Priya Shah,11000,Closed Lost,2026-06-22,2026-09-10,2026-09-10,Cold Email
+D0013,North Partners,Asset Management,Mid-Market,Grace Okafor,29500,Proposal,2026-07-20,2026-11-28,,LinkedIn
+D0014,Tay Capital,Asset Management,Mid-Market,Priya Shah,25500,Closed Lost,2026-01-06,2026-04-03,2026-04-03,Cold Email
+D0015,Clear Group,Private Equity,Enterprise,Grace Okafor,141000,Closed Lost,2026-01-18,2026-01-25,2026-01-25,Cold Email
+D0016,Tay Advisors,Wealth Management,SMB,Alex Morgan,12000,Negotiation,2026-07-05,2026-12-02,,Cold Email
+D0017,Harbour Partners,Fintech,SMB,Priya Shah,11000,Negotiation,2026-06-25,2026-11-16,,Referral
+D0018,Harbour Investments,Private Equity,SMB,Tom Reid,14500,Closed Won,2025-12-20,2026-04-04,2026-04-04,Cold Email
+D0019,Harbour Partners,Insurance,SMB,Priya Shah,13000,Closed Won,2025-10-27,2026-01-25,2026-01-25,Cold Email
+D0020,Summit Advisors,Insurance,SMB,Alex Morgan,19000,Closed Lost,2026-03-07,2026-03-14,2026-03-14,Inbound Website
+D0021,Atlas Capital,Hedge Fund,Enterprise,Tom Reid,81500,Closed Lost,2025-12-19,2026-01-07,2026-01-07,Cold Email
+D0022,Tay Group,Private Equity,SMB,Tom Reid,18500,Prospecting,2026-09-25,2026-10-27,,Inbound Website
+D0023,Clear Capital,Asset Management,SMB,Grace Okafor,18500,Closed Won,2026-04-23,2026-07-28,2026-07-28,Inbound Website
+D0024,Thistle Advisors,Private Equity,SMB,Grace Okafor,19000,Closed Lost,2026-06-19,2026-08-02,2026-08-02,Cold Email
+D0025,Clear Holdings,Private Equity,Enterprise,Grace Okafor,116000,Discovery,2026-09-06,2026-11-14,,Referral
+D0026,Clear Advisors,Wealth Management,Mid-Market,Tom Reid,27000,Discovery,2026-09-12,2026-11-03,,LinkedIn
+D0027,Clear Advisors,Hedge Fund,SMB,Priya Shah,14000,Discovery,2026-09-03,2026-11-24,,Referral
+D0028,Tay Partners,Wealth Management,Enterprise,Priya Shah,115000,Closed Lost,2026-02-03,2026-05-09,2026-05-09,Webinar
+D0029,Silver Group,Hedge Fund,SMB,Grace Okafor,11000,Closed Won,2026-05-26,2026-09-22,2026-09-22,Webinar
+D0030,Harbour Investments,Hedge Fund,SMB,Priya Shah,13500,Closed Lost,2026-08-17,2026-09-16,2026-09-16,Webinar
+D0031,North Holdings,Wealth Management,Mid-Market,Alex Morgan,36500,Closed Lost,2026-03-19,2026-04-29,2026-04-29,Cold Email
+D0032,Tay Group,Hedge Fund,Mid-Market,Alex Morgan,56000,Closed Lost,2026-07-07,2026-08-19,2026-08-19,LinkedIn
+D0033,Oak Advisors,Insurance,SMB,Alex Morgan,11000,Closed Won,2026-05-25,2026-09-04,2026-09-04,Cold Email
+D0034,Beacon Analytics,Private Equity,Enterprise,Priya Shah,78000,Closed Lost,2025-10-16,2025-12-17,2025-12-17,Cold Email
+D0035,Meridian Partners,Fintech,Enterprise,Alex Morgan,112000,Closed Lost,2025-10-14,2025-12-22,2025-12-22,Inbound Website
+D0036,Clear Group,Wealth Management,Mid-Market,Grace Okafor,20500,Negotiation,2026-06-17,2026-11-27,,LinkedIn
+D0037,Granite Group,Hedge Fund,Mid-Market,Tom Reid,46500,Closed Lost,2026-05-26,2026-06-09,2026-06-09,Cold Email
+D0038,Thistle Group,Insurance,SMB,Grace Okafor,19500,Closed Lost,2026-07-12,2026-08-26,2026-08-26,Cold Email
+D0039,Thistle Investments,Hedge Fund,Mid-Market,Priya Shah,35000,Closed Won,2026-03-06,2026-06-15,2026-06-15,LinkedIn
+D0040,Silver Analytics,Insurance,Mid-Market,Priya Shah,32000,Closed Lost,2025-11-21,2026-01-09,2026-01-09,LinkedIn
+D0041,Clear Partners,Hedge Fund,SMB,Alex Morgan,19500,Closed Lost,2026-05-14,2026-08-15,2026-08-15,Cold Email
+D0042,Summit Advisors,Private Equity,Enterprise,Alex Morgan,87000,Closed Lost,2026-05-19,2026-06-25,2026-06-25,LinkedIn
+D0043,Forth Advisors,Wealth Management,SMB,Alex Morgan,13000,Closed Lost,2025-11-08,2026-02-11,2026-02-11,Referral
+D0044,Atlas Asset Management,Fintech,Mid-Market,Tom Reid,53000,Closed Won,2026-03-07,2026-06-24,2026-06-24,Inbound Website
+D0045,Kestrel Analytics,Fintech,Enterprise,Alex Morgan,135000,Closed Lost,2026-01-26,2026-02-02,2026-02-02,LinkedIn
+D0046,Beacon Asset Management,Wealth Management,SMB,Tom Reid,15000,Closed Lost,2026-02-20,2026-03-06,2026-03-06,Referral
+D0047,Atlas Capital,Insurance,Mid-Market,Grace Okafor,31500,Closed Lost,2026-04-29,2026-07-06,2026-07-06,Inbound Website
+D0048,Beacon Partners,Asset Management,SMB,Priya Shah,14500,Closed Lost,2025-10-27,2025-11-10,2025-11-10,Inbound Website
+D0049,Beacon Group,Hedge Fund,SMB,Grace Okafor,10500,Closed Won,2026-07-10,2026-09-24,2026-09-24,Webinar
+D0050,Meridian Group,Hedge Fund,SMB,Grace Okafor,17500,Closed Lost,2026-05-01,2026-05-27,2026-05-27,Cold Email
+D0051,Beacon Capital,Hedge Fund,Enterprise,Tom Reid,81500,Closed Lost,2026-01-05,2026-04-27,2026-04-27,LinkedIn
+D0052,Tay Asset Management,Insurance,SMB,Grace Okafor,19000,Closed Lost,2026-05-14,2026-07-20,2026-07-20,Cold Email
+D0053,Thistle Partners,Wealth Management,Mid-Market,Alex Morgan,29500,Closed Lost,2025-10-19,2025-10-30,2025-10-30,Referral
+D0054,Harbour Holdings,Fintech,Mid-Market,Priya Shah,56000,Closed Won,2025-12-25,2026-03-31,2026-03-31,Cold Email
+D0055,Clear Holdings,Insurance,Mid-Market,Tom Reid,56000,Closed Lost,2026-02-08,2026-03-27,2026-03-27,LinkedIn
+D0056,Forth Capital,Fintech,Mid-Market,Grace Okafor,43000,Closed Lost,2026-04-14,2026-06-14,2026-06-14,Inbound Website
+D0057,Harbour Analytics,Private Equity,Mid-Market,Grace Okafor,45000,Closed Won,2026-01-21,2026-04-23,2026-04-23,Referral
+D0058,Beacon Analytics,Insurance,Mid-Market,Tom Reid,56500,Closed Lost,2026-04-06,2026-04-17,2026-04-17,Webinar
+D0059,Forth Asset Management,Asset Management,SMB,Grace Okafor,19500,Closed Lost,2025-11-08,2025-12-18,2025-12-18,Inbound Website
+D0060,Silver Asset Management,Fintech,SMB,Priya Shah,12500,Closed Lost,2026-07-02,2026-09-22,2026-09-22,Webinar
+D0061,Granite Holdings,Wealth Management,Enterprise,Tom Reid,87000,Closed Lost,2026-05-26,2026-07-31,2026-07-31,LinkedIn
+D0062,Oak Asset Management,Asset Management,Enterprise,Grace Okafor,85000,Closed Lost,2026-04-27,2026-06-06,2026-06-06,Referral
+D0063,Forth Advisors,Asset Management,SMB,Priya Shah,15500,Closed Lost,2026-09-05,2026-09-29,2026-09-29,Inbound Website
+D0064,Summit Asset Management,Asset Management,Enterprise,Priya Shah,108500,Closed Lost,2025-12-14,2026-01-22,2026-01-22,Webinar
+D0065,North Capital,Wealth Management,Mid-Market,Grace Okafor,39000,Closed Won,2025-11-28,2026-03-17,2026-03-17,Webinar
+D0066,Harbour Advisors,Wealth Management,Mid-Market,Grace Okafor,22500,Closed Lost,2026-03-14,2026-06-28,2026-06-28,Cold Email
+D0067,Oak Investments,Fintech,SMB,Alex Morgan,9000,Closed Won,2026-04-23,2026-07-17,2026-07-17,LinkedIn
+D0068,Forth Holdings,Fintech,Mid-Market,Alex Morgan,34000,Closed Won,2026-02-25,2026-06-02,2026-06-02,LinkedIn
+D0069,North Partners,Insurance,SMB,Priya Shah,10000,Closed Lost,2026-03-23,2026-04-23,2026-04-23,Cold Email
+D0070,Clear Advisors,Fintech,Mid-Market,Alex Morgan,55500,Proposal,2026-07-18,2026-11-13,,Cold Email
+D0071,Forth Analytics,Private Equity,Mid-Market,Tom Reid,22000,Closed Lost,2026-06-27,2026-08-14,2026-08-14,LinkedIn
+D0072,Forth Asset Management,Asset Management,Mid-Market,Grace Okafor,27000,Closed Lost,2026-06-12,2026-07-27,2026-07-27,LinkedIn
+D0073,Thistle Asset Management,Asset Management,SMB,Grace Okafor,9000,Closed Won,2025-10-10,2026-01-29,2026-01-29,Cold Email
+D0074,Forth Asset Management,Private Equity,Mid-Market,Priya Shah,41000,Closed Won,2026-05-12,2026-08-23,2026-08-23,LinkedIn
+D0075,Beacon Asset Management,Insurance,SMB,Tom Reid,10000,Closed Lost,2026-01-10,2026-03-12,2026-03-12,Webinar
+D0076,Silver Holdings,Wealth Management,Mid-Market,Alex Morgan,52000,Closed Won,2026-05-15,2026-07-31,2026-07-31,LinkedIn
+D0077,Oak Partners,Fintech,Mid-Market,Priya Shah,58500,Closed Lost,2026-06-01,2026-06-20,2026-06-20,LinkedIn
+D0078,Oak Partners,Fintech,Enterprise,Grace Okafor,107000,Closed Won,2026-05-13,2026-08-17,2026-08-17,Referral
+D0079,Thistle Holdings,Hedge Fund,SMB,Alex Morgan,16000,Closed Lost,2026-03-20,2026-03-31,2026-03-31,Inbound Website
+D0080,Oak Capital,Private Equity,Mid-Market,Tom Reid,58000,Discovery,2026-09-09,2026-12-04,,Inbound Website
+D0081,Harbour Capital,Insurance,SMB,Tom Reid,20000,Closed Lost,2026-06-06,2026-06-17,2026-06-17,Cold Email
+D0082,Summit Asset Management,Insurance,SMB,Grace Okafor,16000,Closed Lost,2025-10-23,2026-01-15,2026-01-15,Cold Email
+D0083,Silver Partners,Insurance,Mid-Market,Alex Morgan,52000,Closed Lost,2025-12-22,2026-01-27,2026-01-27,Cold Email
+D0084,Atlas Capital,Wealth Management,SMB,Tom Reid,13000,Closed Lost,2026-06-20,2026-07-21,2026-07-21,Inbound Website
+D0085,Beacon Investments,Insurance,SMB,Grace Okafor,19000,Closed Lost,2026-01-23,2026-03-14,2026-03-14,Webinar
+D0086,Beacon Partners,Asset Management,Mid-Market,Grace Okafor,49000,Closed Lost,2025-12-16,2026-02-24,2026-02-24,LinkedIn
+D0087,Harbour Capital,Wealth Management,Mid-Market,Grace Okafor,29500,Closed Lost,2025-10-01,2025-11-13,2025-11-13,LinkedIn
+D0088,Kestrel Partners,Fintech,Enterprise,Tom Reid,83000,Closed Lost,2026-04-17,2026-05-23,2026-05-23,Cold Email
+D0089,Beacon Investments,Hedge Fund,Mid-Market,Alex Morgan,27000,Closed Lost,2026-03-23,2026-04-06,2026-04-06,Webinar
+D0090,Oak Analytics,Asset Management,Mid-Market,Tom Reid,59500,Closed Lost,2026-03-08,2026-04-15,2026-04-15,LinkedIn
+D0091,Clear Group,Fintech,Mid-Market,Grace Okafor,34500,Closed Won,2026-06-12,2026-09-13,2026-09-13,Webinar
+D0092,Meridian Group,Asset Management,SMB,Priya Shah,18500,Closed Won,2026-05-17,2026-08-16,2026-08-16,LinkedIn
+D0093,Oak Group,Asset Management,SMB,Priya Shah,12500,Discovery,2026-08-27,2026-11-08,,LinkedIn
+D0094,Beacon Advisors,Asset Management,Mid-Market,Priya Shah,56500,Closed Lost,2026-06-13,2026-08-14,2026-08-14,Cold Email
+D0095,Oak Asset Management,Insurance,Enterprise,Alex Morgan,100000,Closed Lost,2025-12-28,2026-01-14,2026-01-14,Cold Email
+D0096,Atlas Group,Fintech,SMB,Grace Okafor,10500,Closed Won,2026-01-23,2026-05-07,2026-05-07,Cold Email
+D0097,Silver Investments,Private Equity,Mid-Market,Priya Shah,34000,Closed Lost,2026-05-27,2026-08-11,2026-08-11,Inbound Website
+D0098,Meridian Investments,Hedge Fund,Enterprise,Tom Reid,106500,Closed Won,2026-03-27,2026-06-20,2026-06-20,Cold Email
+D0099,North Investments,Wealth Management,SMB,Grace Okafor,15500,Proposal,2026-07-20,2026-11-25,,LinkedIn
+D0100,Tay Holdings,Hedge Fund,Enterprise,Priya Shah,72000,Closed Lost,2026-03-26,2026-06-21,2026-06-21,LinkedIn
+D0101,Silver Group,Hedge Fund,SMB,Priya Shah,14000,Closed Lost,2025-12-21,2026-01-13,2026-01-13,LinkedIn
+D0102,Atlas Group,Fintech,Mid-Market,Tom Reid,37000,Closed Won,2025-10-05,2026-02-02,2026-02-02,Inbound Website
+D0103,Silver Group,Hedge Fund,Mid-Market,Priya Shah,28000,Closed Lost,2026-04-06,2026-05-22,2026-05-22,LinkedIn
+D0104,Clear Group,Asset Management,Mid-Market,Tom Reid,32000,Closed Lost,2026-08-12,2026-09-26,2026-09-26,Cold Email
+D0105,Forth Advisors,Insurance,Mid-Market,Alex Morgan,44000,Prospecting,2026-09-18,2026-12-04,,Cold Email
+D0106,Tay Capital,Insurance,Mid-Market,Priya Shah,48000,Closed Lost,2025-10-17,2026-01-02,2026-01-02,Cold Email
+D0107,Kestrel Analytics,Fintech,Enterprise,Grace Okafor,91000,Closed Lost,2026-05-24,2026-06-12,2026-06-12,LinkedIn
+D0108,Atlas Holdings,Private Equity,SMB,Priya Shah,19500,Closed Won,2026-03-02,2026-06-17,2026-06-17,Cold Email
+D0109,Granite Partners,Fintech,Mid-Market,Priya Shah,50000,Closed Lost,2026-05-15,2026-07-01,2026-07-01,Cold Email
+D0110,Granite Holdings,Insurance,Mid-Market,Grace Okafor,22000,Closed Lost,2026-01-24,2026-03-24,2026-03-24,LinkedIn
+D0111,Granite Holdings,Hedge Fund,Mid-Market,Alex Morgan,29500,Closed Lost,2025-11-15,2025-12-05,2025-12-05,Webinar
+D0112,Beacon Analytics,Hedge Fund,Mid-Market,Alex Morgan,24500,Closed Lost,2026-03-02,2026-04-23,2026-04-23,Inbound Website
+D0113,Silver Asset Management,Asset Management,Mid-Market,Grace Okafor,51500,Closed Lost,2025-10-08,2025-11-18,2025-11-18,LinkedIn
+D0114,Clear Capital,Private Equity,SMB,Tom Reid,19000,Closed Lost,2025-12-11,2026-01-11,2026-01-11,Cold Email
+D0115,Forth Analytics,Insurance,SMB,Alex Morgan,13000,Closed Lost,2026-05-27,2026-06-17,2026-06-17,LinkedIn
+D0116,Silver Asset Management,Asset Management,SMB,Alex Morgan,17000,Closed Won,2026-06-02,2026-09-11,2026-09-11,Referral
+D0117,Forth Capital,Wealth Management,Enterprise,Priya Shah,78000,Negotiation,2026-07-08,2026-11-29,,LinkedIn
+D0118,Harbour Group,Asset Management,Mid-Market,Tom Reid,50000,Closed Lost,2026-02-08,2026-03-10,2026-03-10,LinkedIn
+D0119,Tay Investments,Insurance,Enterprise,Tom Reid,141500,Closed Lost,2026-05-18,2026-06-04,2026-06-04,LinkedIn
+D0120,Beacon Holdings,Fintech,SMB,Grace Okafor,9500,Closed Lost,2026-07-03,2026-08-02,2026-08-02,Inbound Website
+D0121,Kestrel Capital,Hedge Fund,SMB,Alex Morgan,19000,Closed Won,2025-12-19,2026-02-25,2026-02-25,Webinar
+D0122,Silver Advisors,Wealth Management,SMB,Tom Reid,19000,Closed Lost,2026-02-26,2026-04-17,2026-04-17,LinkedIn
+D0123,Kestrel Holdings,Fintech,Mid-Market,Tom Reid,42000,Closed Lost,2026-08-17,2026-08-29,2026-08-29,Cold Email
+D0124,Kestrel Partners,Wealth Management,Mid-Market,Tom Reid,32000,Closed Won,2026-02-01,2026-05-01,2026-05-01,Webinar
+D0125,Oak Analytics,Asset Management,SMB,Priya Shah,12500,Closed Won,2026-01-06,2026-04-14,2026-04-14,Referral
+D0126,Beacon Partners,Insurance,Mid-Market,Grace Okafor,48000,Closed Lost,2026-02-02,2026-05-18,2026-05-18,LinkedIn
+D0127,Summit Group,Fintech,Mid-Market,Tom Reid,29000,Closed Won,2025-10-24,2026-02-05,2026-02-05,Cold Email
+D0128,North Capital,Asset Management,Mid-Market,Alex Morgan,34000,Closed Lost,2025-12-26,2026-02-06,2026-02-06,Cold Email
+D0129,North Analytics,Fintech,Mid-Market,Tom Reid,29500,Closed Won,2025-12-10,2026-03-17,2026-03-17,Webinar
+D0130,Silver Investments,Hedge Fund,Mid-Market,Priya Shah,52000,Prospecting,2026-09-23,2026-10-17,,Inbound Website
+D0131,Harbour Capital,Asset Management,Mid-Market,Grace Okafor,59500,Closed Lost,2026-05-24,2026-06-10,2026-06-10,Cold Email
+D0132,Silver Capital,Hedge Fund,Mid-Market,Priya Shah,46000,Closed Lost,2026-06-13,2026-07-03,2026-07-03,Cold Email
+D0133,Clear Investments,Fintech,Enterprise,Priya Shah,88500,Closed Lost,2025-12-31,2026-02-07,2026-02-07,Inbound Website
+D0134,Oak Holdings,Private Equity,Mid-Market,Alex Morgan,40000,Discovery,2026-09-18,2026-10-26,,Inbound Website
+D0135,Thistle Holdings,Private Equity,Enterprise,Tom Reid,99000,Negotiation,2026-07-11,2026-11-03,,Referral
+D0136,Harbour Asset Management,Wealth Management,Enterprise,Alex Morgan,100000,Closed Won,2025-10-03,2025-12-31,2025-12-31,Webinar
+D0137,Oak Analytics,Hedge Fund,Mid-Market,Grace Okafor,27000,Closed Lost,2026-02-02,2026-04-29,2026-04-29,LinkedIn
+D0138,Tay Investments,Private Equity,SMB,Tom Reid,18500,Closed Lost,2026-08-14,2026-08-27,2026-08-27,LinkedIn
+D0139,Clear Holdings,Private Equity,Mid-Market,Alex Morgan,58500,Prospecting,2026-09-21,2026-11-06,,Webinar
+D0140,Atlas Group,Hedge Fund,Mid-Market,Tom Reid,53500,Closed Lost,2026-05-13,2026-06-02,2026-06-02,Cold Email
+D0141,Harbour Partners,Hedge Fund,Mid-Market,Tom Reid,23000,Closed Won,2026-05-05,2026-08-29,2026-08-29,Inbound Website
+D0142,Silver Advisors,Wealth Management,Enterprise,Tom Reid,121000,Proposal,2026-07-16,2026-12-05,,LinkedIn
+D0143,Beacon Group,Private Equity,SMB,Alex Morgan,11500,Closed Won,2025-10-13,2026-01-04,2026-01-04,Inbound Website
+D0144,Granite Holdings,Wealth Management,Mid-Market,Alex Morgan,47000,Closed Won,2026-03-25,2026-07-06,2026-07-06,Cold Email
+D0145,Silver Investments,Private Equity,Mid-Market,Tom Reid,52500,Closed Lost,2026-02-20,2026-02-28,2026-02-28,Cold Email
+D0146,Harbour Asset Management,Private Equity,Enterprise,Grace Okafor,107500,Discovery,2026-09-09,2026-12-03,,Referral
+D0147,Atlas Holdings,Fintech,SMB,Priya Shah,9500,Discovery,2026-09-10,2026-11-14,,Cold Email
+D0148,Beacon Investments,Hedge Fund,SMB,Grace Okafor,10000,Closed Lost,2026-06-08,2026-07-15,2026-07-15,Webinar
+D0149,Meridian Group,Fintech,SMB,Alex Morgan,8500,Closed Lost,2025-12-25,2026-02-06,2026-02-06,Webinar
+D0150,North Group,Private Equity,SMB,Tom Reid,13000,Closed Lost,2026-07-07,2026-08-12,2026-08-12,Webinar
+D0151,Tay Advisors,Asset Management,Mid-Market,Tom Reid,29500,Closed Lost,2025-11-30,2026-01-22,2026-01-22,Webinar
+D0152,North Analytics,Insurance,Enterprise,Priya Shah,121000,Closed Lost,2026-06-21,2026-07-10,2026-07-10,Cold Email
+D0153,Oak Group,Wealth Management,Mid-Market,Tom Reid,47000,Closed Won,2026-02-04,2026-04-30,2026-04-30,LinkedIn
+D0154,Kestrel Capital,Asset Management,SMB,Alex Morgan,19500,Closed Lost,2026-07-01,2026-09-29,2026-09-29,Webinar
+D0155,Kestrel Investments,Asset Management,Enterprise,Grace Okafor,98500,Closed Won,2025-10-01,2026-01-13,2026-01-13,Inbound Website
+D0156,North Asset Management,Asset Management,SMB,Grace Okafor,9000,Demo,2026-09-01,2026-10-30,,Cold Email
+D0157,Granite Holdings,Hedge Fund,SMB,Priya Shah,17500,Closed Lost,2026-04-15,2026-04-27,2026-04-27,Cold Email
+D0158,Meridian Group,Hedge Fund,SMB,Alex Morgan,16000,Closed Lost,2026-07-16,2026-08-17,2026-08-17,LinkedIn
+D0159,Thistle Capital,Insurance,Mid-Market,Tom Reid,35500,Closed Won,2025-12-03,2026-03-16,2026-03-16,Inbound Website
+D0160,Summit Group,Wealth Management,Mid-Market,Alex Morgan,32000,Closed Lost,2026-01-05,2026-01-26,2026-01-26,Cold Email
+D0161,Meridian Holdings,Private Equity,Mid-Market,Priya Shah,59000,Closed Lost,2025-11-06,2025-12-19,2025-12-19,Inbound Website
+D0162,Clear Partners,Private Equity,SMB,Alex Morgan,8500,Closed Won,2026-01-19,2026-05-06,2026-05-06,Webinar
+D0163,Harbour Capital,Insurance,Mid-Market,Priya Shah,49000,Closed Lost,2026-03-08,2026-05-23,2026-05-23,Webinar
+D0164,North Asset Management,Wealth Management,Enterprise,Tom Reid,107000,Closed Lost,2026-06-12,2026-08-25,2026-08-25,Webinar
+D0165,Kestrel Partners,Hedge Fund,SMB,Alex Morgan,18500,Closed Lost,2026-04-03,2026-04-25,2026-04-25,Cold Email
+D0166,Harbour Asset Management,Asset Management,SMB,Alex Morgan,13500,Closed Won,2025-10-07,2025-12-30,2025-12-30,LinkedIn
+D0167,Thistle Advisors,Wealth Management,Enterprise,Tom Reid,66000,Closed Lost,2025-10-24,2026-02-11,2026-02-11,LinkedIn
+D0168,Atlas Group,Asset Management,SMB,Priya Shah,14500,Closed Lost,2026-04-28,2026-08-15,2026-08-15,Referral
+D0169,Clear Asset Management,Wealth Management,Mid-Market,Tom Reid,35000,Closed Won,2026-04-30,2026-08-10,2026-08-10,Inbound Website
+D0170,Harbour Partners,Hedge Fund,Mid-Market,Tom Reid,43500,Closed Won,2025-12-09,2026-03-19,2026-03-19,Cold Email
+D0171,Silver Advisors,Asset Management,Mid-Market,Grace Okafor,47000,Closed Lost,2026-04-21,2026-05-22,2026-05-22,Cold Email
+D0172,Harbour Capital,Asset Management,SMB,Priya Shah,8500,Closed Lost,2025-12-11,2026-02-15,2026-02-15,Webinar
+D0173,Clear Analytics,Wealth Management,SMB,Priya Shah,19000,Closed Lost,2026-05-25,2026-08-04,2026-08-04,LinkedIn
+D0174,Atlas Advisors,Insurance,Mid-Market,Priya Shah,46000,Demo,2026-08-14,2026-10-25,,LinkedIn
+D0175,Granite Partners,Hedge Fund,Enterprise,Priya Shah,105000,Closed Lost,2026-03-26,2026-07-05,2026-07-05,LinkedIn
+D0176,Granite Investments,Hedge Fund,Mid-Market,Tom Reid,52000,Closed Lost,2026-07-22,2026-08-11,2026-08-11,LinkedIn
+D0177,Beacon Analytics,Hedge Fund,SMB,Grace Okafor,19500,Closed Lost,2026-07-16,2026-08-04,2026-08-04,Webinar
+D0178,Oak Investments,Private Equity,SMB,Alex Morgan,10500,Closed Lost,2025-10-29,2025-11-21,2025-11-21,LinkedIn
+D0179,Harbour Asset Management,Insurance,Mid-Market,Grace Okafor,25500,Closed Lost,2026-07-28,2026-08-12,2026-08-12,Cold Email
+D0180,Meridian Holdings,Fintech,Mid-Market,Alex Morgan,42500,Closed Lost,2025-12-29,2026-03-20,2026-03-20,Inbound Website
+D0181,Kestrel Asset Management,Wealth Management,Mid-Market,Alex Morgan,24000,Closed Lost,2026-01-22,2026-03-28,2026-03-28,LinkedIn
+D0182,Beacon Holdings,Private Equity,Mid-Market,Grace Okafor,49000,Closed Lost,2026-02-09,2026-03-10,2026-03-10,Cold Email
+D0183,North Analytics,Asset Management,Mid-Market,Tom Reid,43000,Closed Lost,2026-06-03,2026-06-25,2026-06-25,Webinar
+D0184,Granite Holdings,Hedge Fund,SMB,Alex Morgan,9000,Closed Lost,2026-04-11,2026-06-06,2026-06-06,Inbound Website
+D0185,Granite Capital,Private Equity,Enterprise,Alex Morgan,97000,Closed Lost,2026-01-14,2026-04-24,2026-04-24,LinkedIn
+D0186,Granite Asset Management,Wealth Management,SMB,Tom Reid,10000,Closed Won,2025-11-19,2026-03-07,2026-03-07,Cold Email
+D0187,Atlas Advisors,Fintech,SMB,Alex Morgan,10500,Closed Lost,2026-05-14,2026-06-24,2026-06-24,Cold Email
+D0188,Forth Advisors,Hedge Fund,SMB,Alex Morgan,12500,Closed Lost,2026-06-01,2026-08-30,2026-08-30,Inbound Website
+D0189,Meridian Holdings,Asset Management,Enterprise,Grace Okafor,142500,Closed Lost,2026-03-13,2026-05-24,2026-05-24,Cold Email
+D0190,Oak Holdings,Private Equity,Mid-Market,Grace Okafor,57500,Closed Lost,2026-07-26,2026-08-30,2026-08-30,Inbound Website
+D0191,Oak Advisors,Asset Management,Mid-Market,Grace Okafor,47000,Closed Lost,2025-12-13,2025-12-26,2025-12-26,LinkedIn
+D0192,Summit Investments,Private Equity,SMB,Grace Okafor,14000,Closed Lost,2026-03-09,2026-03-17,2026-03-17,Referral
+D0193,Silver Investments,Asset Management,SMB,Tom Reid,19000,Closed Lost,2026-01-05,2026-02-09,2026-02-09,LinkedIn
+D0194,Kestrel Capital,Hedge Fund,Mid-Market,Tom Reid,30000,Closed Lost,2026-01-11,2026-04-16,2026-04-16,LinkedIn
+D0195,Summit Advisors,Insurance,SMB,Priya Shah,18000,Closed Lost,2026-03-29,2026-06-19,2026-06-19,Cold Email
+D0196,Clear Analytics,Wealth Management,SMB,Grace Okafor,17500,Closed Lost,2026-06-20,2026-08-23,2026-08-23,Webinar
+D0197,Kestrel Analytics,Private Equity,Mid-Market,Alex Morgan,45000,Discovery,2026-09-12,2026-11-24,,LinkedIn
+D0198,Forth Holdings,Insurance,Mid-Market,Tom Reid,55500,Closed Lost,2026-09-01,2026-09-27,2026-09-27,Cold Email
+D0199,Oak Advisors,Insurance,SMB,Grace Okafor,13000,Closed Lost,2026-03-01,2026-04-05,2026-04-05,LinkedIn
+D0200,Oak Partners,Hedge Fund,SMB,Tom Reid,13500,Closed Lost,2026-01-01,2026-02-03,2026-02-03,Webinar
+D0201,Tay Holdings,Fintech,Mid-Market,Tom Reid,33500,Closed Won,2026-05-04,2026-08-13,2026-08-13,Cold Email
+D0202,Clear Advisors,Hedge Fund,Enterprise,Priya Shah,140500,Closed Won,2026-04-28,2026-07-16,2026-07-16,Inbound Website
+D0203,Forth Advisors,Asset Management,SMB,Alex Morgan,13000,Closed Lost,2026-08-21,2026-09-23,2026-09-23,LinkedIn
+D0204,Kestrel Investments,Private Equity,SMB,Grace Okafor,12500,Closed Won,2026-03-09,2026-06-06,2026-06-06,LinkedIn
+D0205,Meridian Capital,Insurance,SMB,Alex Morgan,20000,Closed Won,2026-01-25,2026-04-29,2026-04-29,Cold Email
+D0206,Thistle Capital,Private Equity,SMB,Grace Okafor,13500,Discovery,2026-09-19,2026-11-06,,Cold Email
+D0207,Silver Partners,Private Equity,SMB,Alex Morgan,15500,Closed Lost,2026-06-24,2026-07-14,2026-07-14,Cold Email
+D0208,North Capital,Insurance,Mid-Market,Alex Morgan,51000,Closed Won,2026-01-10,2026-04-09,2026-04-09,Webinar
+D0209,Kestrel Advisors,Wealth Management,Mid-Market,Tom Reid,26000,Closed Lost,2026-07-21,2026-08-18,2026-08-18,Cold Email
+D0210,Clear Partners,Private Equity,SMB,Tom Reid,16000,Closed Lost,2026-02-26,2026-05-13,2026-05-13,LinkedIn
+D0211,Tay Investments,Asset Management,SMB,Grace Okafor,12500,Closed Lost,2026-05-22,2026-07-06,2026-07-06,Inbound Website
+D0212,North Partners,Private Equity,SMB,Tom Reid,16000,Demo,2026-08-10,2026-11-25,,Webinar
+D0213,Kestrel Asset Management,Fintech,Mid-Market,Alex Morgan,49500,Closed Lost,2026-09-13,2026-09-23,2026-09-23,Webinar
+D0214,Tay Investments,Asset Management,Enterprise,Grace Okafor,115000,Closed Lost,2026-07-13,2026-08-28,2026-08-28,Cold Email
+D0215,Thistle Capital,Asset Management,Mid-Market,Grace Okafor,35000,Closed Lost,2026-01-23,2026-04-11,2026-04-11,Webinar
+D0216,Tay Group,Private Equity,SMB,Grace Okafor,14000,Demo,2026-08-23,2026-11-03,,Cold Email
+D0217,Beacon Investments,Insurance,SMB,Grace Okafor,18000,Closed Lost,2025-10-02,2025-11-14,2025-11-14,Inbound Website
+D0218,Tay Partners,Wealth Management,SMB,Grace Okafor,9500,Proposal,2026-08-09,2026-11-21,,Inbound Website
+D0219,Forth Advisors,Private Equity,Enterprise,Grace Okafor,130500,Closed Lost,2026-06-05,2026-09-20,2026-09-20,Inbound Website
+D0220,Kestrel Investments,Insurance,Mid-Market,Priya Shah,55500,Closed Won,2026-04-30,2026-08-14,2026-08-14,LinkedIn
+D0221,Silver Analytics,Wealth Management,Mid-Market,Alex Morgan,46500,Closed Lost,2026-07-26,2026-08-13,2026-08-13,LinkedIn
+D0222,Tay Advisors,Insurance,Mid-Market,Grace Okafor,26000,Closed Lost,2026-02-24,2026-06-09,2026-06-09,Cold Email
+D0223,Oak Capital,Asset Management,Mid-Market,Tom Reid,57000,Prospecting,2026-09-20,2026-12-01,,LinkedIn
+D0224,Harbour Investments,Hedge Fund,Enterprise,Alex Morgan,123500,Closed Lost,2026-01-24,2026-04-04,2026-04-04,Referral
+D0225,Meridian Capital,Insurance,Mid-Market,Tom Reid,20000,Closed Lost,2026-07-27,2026-08-31,2026-08-31,LinkedIn
+D0226,Summit Group,Fintech,Enterprise,Alex Morgan,107000,Closed Won,2026-01-21,2026-04-28,2026-04-28,Webinar
+D0227,North Asset Management,Fintech,SMB,Grace Okafor,19000,Closed Won,2026-03-27,2026-06-26,2026-06-26,Referral
+D0228,Atlas Partners,Hedge Fund,Enterprise,Grace Okafor,75000,Closed Lost,2025-11-12,2025-12-25,2025-12-25,Inbound Website
+D0229,Clear Partners,Fintech,SMB,Priya Shah,13500,Discovery,2026-09-17,2026-12-09,,Cold Email
+D0230,Meridian Capital,Insurance,SMB,Alex Morgan,16000,Closed Lost,2026-03-11,2026-04-09,2026-04-09,LinkedIn
+D0231,North Group,Hedge Fund,SMB,Priya Shah,17000,Closed Lost,2026-08-07,2026-08-20,2026-08-20,LinkedIn
+D0232,Tay Asset Management,Asset Management,Enterprise,Priya Shah,73000,Closed Lost,2026-03-01,2026-03-22,2026-03-22,Referral
+D0233,Granite Capital,Fintech,Mid-Market,Grace Okafor,36000,Closed Won,2025-10-03,2026-01-03,2026-01-03,LinkedIn
+D0234,Meridian Asset Management,Private Equity,SMB,Grace Okafor,16000,Closed Won,2026-03-19,2026-07-11,2026-07-11,Cold Email
+D0235,Beacon Group,Private Equity,Mid-Market,Tom Reid,45500,Closed Lost,2026-01-22,2026-02-23,2026-02-23,Cold Email
+D0236,Tay Capital,Fintech,Enterprise,Grace Okafor,77500,Closed Lost,2025-12-11,2026-01-09,2026-01-09,Webinar
+D0237,Forth Investments,Fintech,SMB,Priya Shah,18500,Closed Lost,2026-04-06,2026-07-18,2026-07-18,LinkedIn
+D0238,Oak Holdings,Wealth Management,SMB,Grace Okafor,17000,Closed Lost,2026-04-02,2026-05-20,2026-05-20,Cold Email
+D0239,Silver Investments,Wealth Management,SMB,Grace Okafor,16500,Discovery,2026-08-29,2026-11-22,,LinkedIn
+D0240,Oak Group,Wealth Management,SMB,Alex Morgan,19000,Closed Lost,2026-02-06,2026-02-18,2026-02-18,LinkedIn
+D0241,Thistle Partners,Wealth Management,SMB,Grace Okafor,12500,Closed Lost,2025-12-16,2026-01-16,2026-01-16,Webinar
+D0242,Meridian Capital,Insurance,SMB,Tom Reid,15000,Closed Won,2025-10-23,2026-01-30,2026-01-30,Cold Email
+D0243,Meridian Investments,Fintech,Mid-Market,Priya Shah,39000,Closed Lost,2026-05-18,2026-05-28,2026-05-28,LinkedIn
+D0244,Forth Partners,Asset Management,SMB,Grace Okafor,12500,Closed Won,2025-11-05,2026-02-11,2026-02-11,Cold Email
+D0245,Forth Partners,Wealth Management,Enterprise,Priya Shah,129500,Closed Won,2025-10-01,2026-01-09,2026-01-09,Referral
+D0246,North Partners,Fintech,Enterprise,Alex Morgan,97000,Closed Lost,2026-08-03,2026-08-21,2026-08-21,Cold Email
+D0247,Atlas Advisors,Wealth Management,SMB,Grace Okafor,16000,Closed Lost,2025-11-24,2026-01-29,2026-01-29,Cold Email
+D0248,Kestrel Partners,Insurance,SMB,Priya Shah,11500,Closed Lost,2026-06-05,2026-07-07,2026-07-07,Cold Email
+D0249,Harbour Analytics,Hedge Fund,Mid-Market,Tom Reid,52000,Closed Won,2026-04-24,2026-07-22,2026-07-22,Referral
+D0250,Tay Investments,Insurance,Mid-Market,Grace Okafor,57000,Closed Lost,2025-10-20,2025-11-17,2025-11-17,LinkedIn
+D0251,Harbour Analytics,Wealth Management,Mid-Market,Tom Reid,40500,Closed Lost,2025-10-18,2025-11-24,2025-11-24,Referral
+D0252,Atlas Partners,Fintech,SMB,Alex Morgan,18000,Negotiation,2026-07-09,2026-10-28,,Inbound Website
+D0253,Beacon Group,Fintech,Mid-Market,Alex Morgan,58500,Closed Lost,2026-02-06,2026-03-17,2026-03-17,LinkedIn
+D0254,Meridian Analytics,Hedge Fund,Enterprise,Priya Shah,106500,Closed Won,2026-04-30,2026-08-07,2026-08-07,Cold Email
+D0255,Kestrel Group,Fintech,SMB,Alex Morgan,11000,Closed Lost,2026-01-26,2026-02-17,2026-02-17,Referral
+D0256,Beacon Capital,Fintech,SMB,Tom Reid,17000,Closed Lost,2026-06-09,2026-08-15,2026-08-15,LinkedIn
+D0257,Oak Asset Management,Hedge Fund,SMB,Grace Okafor,8000,Closed Lost,2026-05-24,2026-08-30,2026-08-30,Referral
+D0258,North Investments,Wealth Management,SMB,Grace Okafor,15000,Closed Won,2026-02-21,2026-05-19,2026-05-19,Inbound Website
+D0259,North Holdings,Asset Management,Mid-Market,Priya Shah,51500,Closed Lost,2026-07-01,2026-07-16,2026-07-16,Cold Email
+D0260,Meridian Investments,Private Equity,SMB,Tom Reid,15500,Closed Won,2026-02-08,2026-05-26,2026-05-26,LinkedIn
+D0261,Oak Analytics,Insurance,Mid-Market,Tom Reid,38500,Closed Won,2026-04-14,2026-07-27,2026-07-27,Inbound Website
+D0262,Beacon Capital,Asset Management,SMB,Grace Okafor,18500,Closed Lost,2026-04-30,2026-06-29,2026-06-29,Cold Email
+D0263,Oak Group,Wealth Management,SMB,Tom Reid,11500,Closed Lost,2026-01-26,2026-03-12,2026-03-12,Referral
+D0264,Beacon Advisors,Asset Management,Mid-Market,Grace Okafor,55000,Closed Lost,2026-08-20,2026-09-25,2026-09-25,LinkedIn
+D0265,Beacon Analytics,Asset Management,SMB,Grace Okafor,18000,Closed Lost,2025-10-06,2025-12-09,2025-12-09,Webinar
+D0266,Summit Analytics,Asset Management,SMB,Grace Okafor,18500,Closed Lost,2026-04-10,2026-05-12,2026-05-12,LinkedIn
+D0267,Atlas Advisors,Asset Management,Mid-Market,Priya Shah,31500,Prospecting,2026-09-21,2026-11-06,,Webinar
+D0268,North Investments,Asset Management,SMB,Tom Reid,16500,Closed Lost,2026-08-13,2026-09-05,2026-09-05,LinkedIn
+D0269,Beacon Asset Management,Wealth Management,SMB,Alex Morgan,14000,Closed Lost,2025-11-16,2025-11-27,2025-11-27,Cold Email
+D0270,Clear Holdings,Asset Management,Mid-Market,Alex Morgan,23000,Closed Lost,2026-02-14,2026-02-24,2026-02-24,LinkedIn
+D0271,Granite Capital,Insurance,Mid-Market,Alex Morgan,21500,Closed Lost,2026-02-04,2026-03-30,2026-03-30,LinkedIn
+D0272,North Capital,Fintech,Enterprise,Grace Okafor,79500,Closed Lost,2025-10-27,2026-01-06,2026-01-06,Cold Email
+D0273,Forth Asset Management,Wealth Management,Enterprise,Priya Shah,149500,Closed Won,2026-03-23,2026-06-13,2026-06-13,Referral
+D0274,Clear Investments,Asset Management,SMB,Priya Shah,9500,Closed Won,2026-04-12,2026-07-26,2026-07-26,Inbound Website
+D0275,Silver Holdings,Hedge Fund,Mid-Market,Grace Okafor,49500,Demo,2026-08-23,2026-11-28,,Inbound Website
+D0276,Summit Partners,Asset Management,SMB,Grace Okafor,18000,Discovery,2026-09-03,2026-11-16,,Cold Email
+D0277,Forth Capital,Fintech,Mid-Market,Tom Reid,23000,Closed Lost,2026-01-22,2026-03-23,2026-03-23,Inbound Website
+D0278,Meridian Asset Management,Insurance,Mid-Market,Grace Okafor,41500,Closed Lost,2025-11-21,2026-03-03,2026-03-03,Cold Email
+D0279,Oak Asset Management,Private Equity,SMB,Grace Okafor,10000,Closed Lost,2026-06-16,2026-06-30,2026-06-30,Inbound Website
+D0280,Beacon Holdings,Asset Management,SMB,Alex Morgan,14500,Closed Lost,2026-01-18,2026-01-30,2026-01-30,Webinar
+D0281,Silver Investments,Asset Management,SMB,Alex Morgan,10500,Closed Lost,2025-10-04,2025-10-29,2025-10-29,Inbound Website
+D0282,Thistle Partners,Insurance,SMB,Tom Reid,11500,Closed Lost,2026-01-28,2026-02-13,2026-02-13,LinkedIn
+D0283,Tay Partners,Hedge Fund,SMB,Alex Morgan,17000,Demo,2026-08-25,2026-11-20,,LinkedIn
+D0284,Forth Partners,Hedge Fund,SMB,Grace Okafor,16500,Closed Lost,2025-12-16,2026-01-24,2026-01-24,Cold Email
+D0285,Beacon Advisors,Wealth Management,SMB,Grace Okafor,17000,Closed Lost,2025-11-12,2026-01-02,2026-01-02,LinkedIn
+D0286,Oak Group,Fintech,SMB,Priya Shah,19000,Closed Won,2026-05-09,2026-08-28,2026-08-28,Cold Email
+D0287,Summit Advisors,Fintech,SMB,Tom Reid,8500,Closed Won,2025-11-13,2026-02-19,2026-02-19,Inbound Website
+D0288,North Analytics,Insurance,SMB,Grace Okafor,8500,Closed Lost,2025-10-23,2026-01-26,2026-01-26,Cold Email
+D0289,Granite Capital,Private Equity,SMB,Tom Reid,15000,Closed Won,2026-03-11,2026-06-18,2026-06-18,Cold Email
+D0290,Silver Analytics,Hedge Fund,Mid-Market,Priya Shah,55000,Closed Lost,2025-11-01,2025-11-21,2025-11-21,Inbound Website
+D0291,Meridian Asset Management,Wealth Management,Mid-Market,Priya Shah,47000,Closed Lost,2026-04-14,2026-06-10,2026-06-10,Inbound Website
+D0292,Atlas Investments,Insurance,Mid-Market,Priya Shah,28000,Closed Lost,2026-07-05,2026-08-18,2026-08-18,Cold Email
+D0293,Atlas Holdings,Private Equity,Mid-Market,Grace Okafor,26000,Closed Lost,2026-03-12,2026-03-24,2026-03-24,Cold Email
+D0294,Tay Group,Insurance,SMB,Tom Reid,20000,Closed Won,2026-01-03,2026-04-13,2026-04-13,Referral
+D0295,Clear Holdings,Hedge Fund,SMB,Priya Shah,10500,Closed Lost,2026-05-31,2026-06-19,2026-06-19,Cold Email
+D0296,Atlas Capital,Fintech,SMB,Alex Morgan,12000,Closed Lost,2026-08-12,2026-09-24,2026-09-24,LinkedIn
+D0297,Clear Group,Hedge Fund,Enterprise,Grace Okafor,63500,Closed Lost,2026-04-21,2026-07-07,2026-07-07,LinkedIn
+D0298,Thistle Investments,Wealth Management,Mid-Market,Grace Okafor,38000,Closed Lost,2026-05-26,2026-07-01,2026-07-01,Webinar
+D0299,Forth Investments,Insurance,Enterprise,Alex Morgan,68000,Closed Lost,2026-01-12,2026-01-29,2026-01-29,Cold Email
+D0300,Meridian Investments,Hedge Fund,Mid-Market,Priya Shah,23500,Closed Lost,2026-05-19,2026-08-27,2026-08-27,Webinar
+D0301,Summit Capital,Fintech,SMB,Tom Reid,17000,Closed Lost,2026-05-03,2026-05-27,2026-05-27,Inbound Website
+D0302,Summit Analytics,Fintech,Enterprise,Priya Shah,109000,Negotiation,2026-06-12,2026-10-19,,Cold Email
+D0303,Granite Analytics,Fintech,SMB,Priya Shah,12000,Closed Lost,2025-12-15,2026-02-18,2026-02-18,Cold Email
+D0304,Harbour Analytics,Wealth Management,SMB,Priya Shah,12500,Closed Lost,2026-03-15,2026-03-28,2026-03-28,Cold Email
+D0305,Beacon Analytics,Wealth Management,SMB,Tom Reid,13000,Closed Lost,2026-02-18,2026-04-08,2026-04-08,Cold Email
+D0306,Kestrel Partners,Insurance,Mid-Market,Priya Shah,41000,Proposal,2026-08-11,2026-11-19,,Referral
+D0307,Oak Capital,Asset Management,SMB,Tom Reid,17500,Prospecting,2026-09-19,2026-11-18,,Cold Email
+D0308,Forth Capital,Insurance,SMB,Priya Shah,18000,Closed Lost,2025-12-29,2026-01-12,2026-01-12,Inbound Website
+D0309,Granite Analytics,Asset Management,Enterprise,Tom Reid,65000,Closed Won,2026-04-30,2026-08-10,2026-08-10,LinkedIn
+D0310,Thistle Capital,Private Equity,Mid-Market,Grace Okafor,54500,Closed Lost,2026-01-04,2026-01-22,2026-01-22,Webinar
+D0311,Harbour Group,Fintech,SMB,Alex Morgan,18000,Closed Lost,2026-01-30,2026-03-10,2026-03-10,Cold Email
+D0312,Silver Investments,Hedge Fund,Mid-Market,Alex Morgan,25500,Closed Lost,2026-03-08,2026-03-28,2026-03-28,Inbound Website
+D0313,Harbour Analytics,Asset Management,Mid-Market,Tom Reid,44000,Closed Lost,2025-10-23,2025-11-06,2025-11-06,Cold Email
+D0314,Silver Partners,Hedge Fund,SMB,Tom Reid,12000,Closed Lost,2026-02-24,2026-03-29,2026-03-29,LinkedIn
+D0315,North Partners,Wealth Management,SMB,Alex Morgan,18500,Closed Lost,2025-11-06,2025-12-08,2025-12-08,LinkedIn
+D0316,Kestrel Partners,Wealth Management,SMB,Priya Shah,15000,Closed Lost,2026-04-19,2026-07-11,2026-07-11,LinkedIn
+D0317,Beacon Group,Hedge Fund,SMB,Priya Shah,13500,Prospecting,2026-09-23,2026-12-09,,Referral
+D0318,Clear Asset Management,Fintech,Enterprise,Priya Shah,95500,Closed Won,2026-02-10,2026-05-09,2026-05-09,Referral
+D0319,Atlas Partners,Private Equity,Mid-Market,Priya Shah,36000,Closed Lost,2026-03-04,2026-04-04,2026-04-04,LinkedIn
+D0320,Beacon Asset Management,Fintech,Mid-Market,Alex Morgan,49500,Discovery,2026-09-05,2026-12-10,,Webinar
+D0321,Meridian Capital,Hedge Fund,SMB,Priya Shah,15500,Closed Lost,2026-04-13,2026-04-23,2026-04-23,Cold Email
+D0322,Meridian Capital,Fintech,Mid-Market,Grace Okafor,32500,Closed Lost,2026-01-14,2026-03-20,2026-03-20,LinkedIn
+D0323,Oak Partners,Private Equity,Enterprise,Alex Morgan,147000,Closed Lost,2026-04-08,2026-04-23,2026-04-23,Cold Email
+D0324,Granite Analytics,Insurance,Mid-Market,Priya Shah,48500,Closed Lost,2026-04-20,2026-06-28,2026-06-28,LinkedIn
+D0325,Forth Holdings,Fintech,Mid-Market,Priya Shah,39500,Closed Lost,2025-12-13,2026-01-14,2026-01-14,LinkedIn
+D0326,Meridian Group,Insurance,SMB,Tom Reid,15500,Closed Lost,2026-01-24,2026-04-22,2026-04-22,LinkedIn
+D0327,Forth Analytics,Wealth Management,Enterprise,Alex Morgan,67000,Closed Lost,2026-06-04,2026-06-19,2026-06-19,Webinar
+D0328,Oak Analytics,Private Equity,SMB,Priya Shah,12000,Demo,2026-08-10,2026-11-13,,Webinar
+D0329,Meridian Capital,Private Equity,Mid-Market,Grace Okafor,49000,Proposal,2026-08-02,2026-12-06,,LinkedIn
+D0330,Kestrel Group,Private Equity,SMB,Priya Shah,17500,Closed Lost,2026-06-16,2026-09-03,2026-09-03,Cold Email
+D0331,Forth Holdings,Wealth Management,Enterprise,Priya Shah,91000,Closed Lost,2026-06-28,2026-07-21,2026-07-21,Cold Email
+D0332,Atlas Holdings,Wealth Management,SMB,Tom Reid,18000,Demo,2026-08-25,2026-11-17,,Cold Email
+D0333,Kestrel Capital,Asset Management,SMB,Tom Reid,17500,Closed Lost,2025-10-07,2025-10-19,2025-10-19,LinkedIn
+D0334,Silver Asset Management,Insurance,Mid-Market,Priya Shah,30000,Closed Lost,2026-02-14,2026-04-14,2026-04-14,LinkedIn
+D0335,Tay Advisors,Fintech,SMB,Alex Morgan,14500,Closed Won,2025-10-07,2026-01-02,2026-01-02,Referral
+D0336,Thistle Investments,Private Equity,SMB,Tom Reid,16000,Closed Lost,2026-08-06,2026-09-06,2026-09-06,Inbound Website
+D0337,Clear Capital,Wealth Management,Enterprise,Grace Okafor,129500,Closed Lost,2026-09-20,2026-09-29,2026-09-29,Cold Email
+D0338,Summit Partners,Wealth Management,SMB,Tom Reid,20000,Closed Lost,2026-05-14,2026-07-18,2026-07-18,Cold Email
+D0339,Granite Capital,Asset Management,SMB,Grace Okafor,16500,Closed Lost,2025-11-07,2025-11-14,2025-11-14,Webinar
+D0340,Oak Asset Management,Insurance,Mid-Market,Tom Reid,57500,Closed Lost,2025-10-02,2026-01-01,2026-01-01,LinkedIn
+D0341,Kestrel Advisors,Private Equity,Mid-Market,Grace Okafor,50500,Closed Lost,2025-11-11,2025-12-02,2025-12-02,Cold Email
+D0342,Granite Capital,Hedge Fund,SMB,Alex Morgan,9000,Prospecting,2026-09-18,2026-10-28,,Referral
+D0343,North Holdings,Asset Management,Enterprise,Priya Shah,61500,Closed Lost,2026-05-19,2026-05-31,2026-05-31,Cold Email
+D0344,Harbour Group,Fintech,SMB,Priya Shah,9500,Closed Won,2025-11-06,2026-02-06,2026-02-06,Referral
+D0345,Forth Advisors,Asset Management,Mid-Market,Priya Shah,37000,Closed Lost,2025-11-02,2026-01-31,2026-01-31,Webinar
+D0346,North Group,Asset Management,Mid-Market,Alex Morgan,42000,Closed Lost,2025-12-26,2026-02-21,2026-02-21,LinkedIn
+D0347,Forth Group,Insurance,Mid-Market,Priya Shah,43500,Closed Lost,2025-11-15,2025-12-03,2025-12-03,Cold Email
+D0348,Meridian Partners,Insurance,SMB,Tom Reid,11000,Closed Lost,2026-06-25,2026-07-28,2026-07-28,Cold Email
+D0349,Forth Investments,Insurance,Enterprise,Grace Okafor,148000,Closed Won,2025-11-30,2026-03-27,2026-03-27,Referral
+D0350,Granite Investments,Asset Management,SMB,Grace Okafor,11000,Closed Lost,2026-02-23,2026-04-07,2026-04-07,Referral
+D0351,Atlas Advisors,Asset Management,SMB,Grace Okafor,16000,Closed Lost,2026-05-03,2026-07-01,2026-07-01,Cold Email
+D0352,Summit Asset Management,Hedge Fund,SMB,Alex Morgan,13500,Closed Lost,2026-04-17,2026-04-29,2026-04-29,Cold Email
+D0353,Harbour Holdings,Fintech,SMB,Grace Okafor,11500,Closed Lost,2026-03-25,2026-05-25,2026-05-25,Cold Email
+D0354,Meridian Capital,Wealth Management,SMB,Alex Morgan,13000,Closed Lost,2026-02-20,2026-04-27,2026-04-27,Inbound Website
+D0355,Granite Asset Management,Private Equity,SMB,Priya Shah,14500,Closed Lost,2026-06-16,2026-09-10,2026-09-10,LinkedIn
+D0356,Beacon Investments,Insurance,Mid-Market,Grace Okafor,26500,Closed Lost,2026-06-03,2026-06-29,2026-06-29,LinkedIn
+D0357,Forth Analytics,Insurance,SMB,Priya Shah,15500,Demo,2026-08-17,2026-11-09,,Inbound Website
+D0358,Thistle Partners,Fintech,Mid-Market,Priya Shah,22000,Closed Won,2026-03-21,2026-06-08,2026-06-08,Inbound Website
+D0359,Summit Advisors,Private Equity,Mid-Market,Tom Reid,49500,Closed Lost,2025-11-28,2025-12-18,2025-12-18,Webinar
+D0360,Beacon Asset Management,Insurance,SMB,Alex Morgan,13500,Closed Lost,2025-11-02,2026-01-15,2026-01-15,LinkedIn
+D0361,Atlas Investments,Wealth Management,SMB,Tom Reid,19000,Closed Won,2025-11-14,2026-02-12,2026-02-12,Cold Email
+D0362,Clear Investments,Private Equity,Enterprise,Priya Shah,81000,Closed Won,2025-10-12,2026-02-16,2026-02-16,Inbound Website
+D0363,Thistle Investments,Hedge Fund,SMB,Priya Shah,13500,Closed Lost,2025-12-15,2026-02-16,2026-02-16,Cold Email
+D0364,Harbour Capital,Wealth Management,Mid-Market,Grace Okafor,37500,Closed Won,2026-03-12,2026-06-05,2026-06-05,LinkedIn
+D0365,Forth Investments,Fintech,SMB,Grace Okafor,17000,Closed Lost,2025-12-19,2026-02-07,2026-02-07,Inbound Website
+D0366,Beacon Asset Management,Asset Management,Mid-Market,Tom Reid,24500,Closed Lost,2025-12-11,2025-12-27,2025-12-27,Cold Email
+D0367,Kestrel Partners,Fintech,SMB,Grace Okafor,14500,Demo,2026-08-25,2026-12-09,,Webinar
+D0368,Clear Asset Management,Private Equity,Mid-Market,Tom Reid,22000,Demo,2026-08-06,2026-10-12,,Referral
+D0369,Granite Partners,Hedge Fund,SMB,Priya Shah,16500,Closed Lost,2026-02-25,2026-03-15,2026-03-15,Inbound Website
+D0370,Granite Advisors,Hedge Fund,Mid-Market,Grace Okafor,23500,Demo,2026-07-30,2026-11-29,,LinkedIn
+D0371,Atlas Investments,Wealth Management,SMB,Priya Shah,17000,Closed Lost,2026-03-05,2026-06-10,2026-06-10,Cold Email
+D0372,Tay Partners,Private Equity,SMB,Alex Morgan,19500,Closed Lost,2026-02-19,2026-05-17,2026-05-17,LinkedIn
+D0373,Harbour Investments,Fintech,Enterprise,Tom Reid,72000,Closed Won,2026-05-25,2026-08-30,2026-08-30,Cold Email
+D0374,North Investments,Fintech,Mid-Market,Tom Reid,34500,Closed Lost,2026-09-16,2026-09-28,2026-09-28,LinkedIn
+D0375,Meridian Partners,Wealth Management,SMB,Grace Okafor,14000,Closed Lost,2025-11-22,2025-12-11,2025-12-11,Webinar
+D0376,Meridian Asset Management,Hedge Fund,Enterprise,Tom Reid,103000,Closed Lost,2025-12-07,2026-01-12,2026-01-12,Cold Email
+D0377,North Advisors,Asset Management,SMB,Alex Morgan,18500,Closed Lost,2025-11-30,2026-02-18,2026-02-18,Cold Email
+D0378,Kestrel Asset Management,Asset Management,SMB,Alex Morgan,9000,Discovery,2026-09-07,2026-10-30,,Cold Email
+D0379,Forth Capital,Fintech,SMB,Priya Shah,10000,Closed Lost,2026-07-24,2026-09-19,2026-09-19,LinkedIn
+D0380,Beacon Asset Management,Insurance,Enterprise,Priya Shah,69000,Closed Lost,2025-10-03,2025-10-18,2025-10-18,Cold Email
+D0381,Thistle Analytics,Fintech,Mid-Market,Alex Morgan,36500,Closed Lost,2026-01-18,2026-03-09,2026-03-09,Webinar
+D0382,Forth Group,Insurance,SMB,Tom Reid,11500,Closed Won,2026-06-10,2026-09-15,2026-09-15,Referral
+D0383,Thistle Partners,Insurance,SMB,Priya Shah,13500,Discovery,2026-09-10,2026-11-14,,Referral
+D0384,Oak Group,Insurance,SMB,Grace Okafor,15000,Closed Lost,2026-01-10,2026-05-01,2026-05-01,Inbound Website
+D0385,Beacon Capital,Hedge Fund,SMB,Grace Okafor,11000,Closed Lost,2026-02-06,2026-02-24,2026-02-24,Inbound Website
+D0386,Harbour Holdings,Wealth Management,Mid-Market,Tom Reid,28000,Closed Lost,2026-06-10,2026-09-01,2026-09-01,Referral
+D0387,Silver Capital,Wealth Management,SMB,Tom Reid,9500,Closed Lost,2025-12-24,2026-05-01,2026-05-01,Webinar
+D0388,North Advisors,Hedge Fund,SMB,Priya Shah,8500,Closed Won,2025-11-01,2026-02-17,2026-02-17,Webinar
+D0389,Atlas Asset Management,Fintech,SMB,Alex Morgan,8000,Closed Won,2025-11-28,2026-03-17,2026-03-17,Cold Email
+D0390,Summit Analytics,Private Equity,SMB,Alex Morgan,15500,Discovery,2026-09-07,2026-11-15,,LinkedIn
+D0391,Clear Holdings,Insurance,Mid-Market,Tom Reid,43000,Closed Won,2025-11-17,2026-02-13,2026-02-13,LinkedIn
+D0392,Meridian Group,Hedge Fund,Mid-Market,Grace Okafor,47000,Discovery,2026-08-16,2026-10-23,,LinkedIn
+D0393,Forth Analytics,Wealth Management,Mid-Market,Grace Okafor,22500,Closed Lost,2026-07-17,2026-08-14,2026-08-14,Cold Email
+D0394,Clear Group,Wealth Management,SMB,Grace Okafor,11500,Closed Lost,2026-04-30,2026-07-13,2026-07-13,Cold Email
+D0395,Beacon Capital,Asset Management,SMB,Alex Morgan,17500,Closed Lost,2025-10-15,2025-11-04,2025-11-04,Referral
+D0396,Harbour Analytics,Wealth Management,Mid-Market,Alex Morgan,55500,Closed Lost,2026-04-05,2026-06-06,2026-06-06,LinkedIn
+D0397,North Group,Fintech,Mid-Market,Tom Reid,49500,Closed Lost,2026-03-18,2026-06-20,2026-06-20,Webinar
+D0398,North Capital,Insurance,SMB,Alex Morgan,16000,Closed Lost,2026-07-07,2026-09-01,2026-09-01,Inbound Website
+D0399,Atlas Capital,Wealth Management,Mid-Market,Tom Reid,48000,Closed Lost,2026-03-08,2026-04-11,2026-04-11,Inbound Website
+D0400,Forth Holdings,Asset Management,Enterprise,Tom Reid,74500,Closed Lost,2026-01-16,2026-01-28,2026-01-28,LinkedIn

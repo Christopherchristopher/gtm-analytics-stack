@@ -1,0 +1,38 @@
+name: gtm_analytics
+version: "1.0.0"
+config-version: 2
+profile: gtm_analytics
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+
+vars:
+  # The date the pipeline snapshot and ages are measured from.
+  # Matches the synthetic data; set to current_date() for live data.
+  as_of_date: "2026-09-30"
+
+seeds:
+  gtm_analytics:
+    +schema: raw
+    raw_deals:
+      +column_types:
+        amount_gbp: numeric
+        created_date: date
+        expected_close_date: date
+        close_date: date
+    raw_touches:
+      +column_types:
+        touch_date: date
+    raw_stage_history:
+      +column_types:
+        entered_date: date
+
+models:
+  gtm_analytics:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts

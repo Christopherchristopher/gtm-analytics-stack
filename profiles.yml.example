@@ -1,0 +1,13 @@
+# Copy to ~/.dbt/profiles.yml and replace YOUR_GCP_PROJECT_ID.
+# Authenticate once with:  gcloud auth application-default login
+gtm_analytics:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: YOUR_GCP_PROJECT_ID
+      dataset: gtm
+      location: EU
+      threads: 4
+      job_execution_timeout_seconds: 300

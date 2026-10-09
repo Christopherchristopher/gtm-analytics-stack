@@ -1,0 +1,66 @@
+version: 2
+
+models:
+  - name: stg_deals
+    description: One row per deal, typed, with is_closed / is_won flags and age in days.
+    columns:
+      - name: deal_id
+        tests: [unique, not_null]
+      - name: amount_gbp
+        tests: [not_null]
+      - name: stage
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['Prospecting', 'Discovery', 'Demo', 'Proposal',
+                         'Negotiation', 'Closed Won', 'Closed Lost']
+
+  - name: stg_touches
+    description: One row per touch, numbered in time order within each deal.
+    columns:
+      - name: touch_id
+        tests: [unique, not_null]
+      - name: deal_id
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('stg_deals')
+                field: deal_id
+
+  - name: stg_stage_history
+    description: Every stage each deal entered, with entry date and funnel order.
+    columns:
+      - name: deal_id
+        tests:
+          - relationships:
+              arguments:
+                to: ref('stg_deals')
+                field: deal_id
+
+  - name: fct_pipeline
+    description: Snapshot of open pipeline by stage (count, value, size, age).
+    columns:
+      - name: stage
+        tests: [unique, not_null]
+
+  - name: fct_stage_conversion
+    description: Stage-to-next and win rate from each stage, based on closed deals.
+    columns:
+      - name: stage
+        tests: [unique, not_null]
+
+  - name: fct_attribution
+    description: First-touch, last-touch and linear attribution of pipeline and won revenue by channel.
+    columns:
+      - name: channel
+        tests: [unique, not_null]
+
+  - name: fct_forecast
+    description: Open deals weighted by historical win rate from their current stage.
+    columns:
+      - name: deal_id
+        tests: [unique, not_null]
+
+  - name: fct_pipeline_created
+    description: Monthly pipeline created and won by source channel.
